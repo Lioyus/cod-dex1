@@ -1,4 +1,4 @@
-<div>
+<div align=center>
     <br>
     <h1>Brief explaination</h1>
     <strong>Git & github codédex journey</strong>
